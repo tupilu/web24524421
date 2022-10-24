@@ -1,0 +1,97 @@
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            
+            body {
+                background-color: rgb(247, 248, 248);
+            }
+            
+            header {
+                text-align: right;
+                font-size: 15px;
+                height: 30vh;
+                border: 1px solid rgb(6, 133, 175);
+                width: 100%;
+                background-color: rgb(198, 239, 239);
+            }
+            
+            li {
+                margin: 15px;
+                list-style: none;
+            }
+            
+            a {
+                text-decoration: none;
+            }
+            
+            a:hover {
+                background-color: rgb(218, 210, 210);
+                color: rgb(0, 0, 0);
+            }
+            
+            .menu {
+                text-align: justify;
+                font-size: 20px;
+                height: 5vh;
+                border: 1px solid rgb(6, 133, 175);
+                background-color: rgb(37, 82, 247);
+                justify-content: space-evenly;
+                justify-content: space-between;
+                display: flex;
+            }
+            
+            .li1 {
+                margin: 5px;
+            }
+            
+            h1 {
+                width: 100%;
+                text-align: center;
+                font-size: 50px;
+            }
+            
+            .section2 {
+                display: flex;
+                text-align: justify;
+                height: 15vh;
+            }
+            
+            .section21 {
+                width: 34%;
+                padding: 20px;
+                font-size: 20px;
+            }
+            
+            .section22 {
+                width: 34%;
+                padding: 20px;
+                font-size: 20px;
+            }
+            
+            .section23 {
+                width: 34%;
+                padding: 20px;
+                font-size: 20px;
+            }
+            
+            .img1 {
+                padding: 10px;
+                height: 25vh;
+            }
+            
+            .img2 {
+                padding: 10px;
+                height: 25vh;
+            }
+            
+            .img3 {
+                padding: 10px;
+                height: 25vh;
+            }
+            
+            footer {
+                height: 25vh;
+                width: 100%;
+            }
